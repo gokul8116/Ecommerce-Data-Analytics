@@ -1,0 +1,6 @@
+faker==19.13.0
+pandas==2.1.4
+numpy==1.26.0
+matplotlib==3.8.2
+seaborn==0.13.2
+mysql-connector-python==8.2.0
